@@ -1,2 +1,6 @@
 # Ignore local engine repo
 /quartz/
+
+# MonoGame / .NET build outputs
+**/bin/
+**/obj/
